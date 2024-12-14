@@ -1,0 +1,2 @@
+# Time-Series-Forecasting-with-CNN-and-LSTM-for-Melbourne-s-Minimum-Temperatures
+This project leverages TensorFlow to forecast Melbourne's daily minimum temperatures using a hybrid model combining Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) layers. The dataset spans from 1981 to 1990, and the model aims to predict temperature trends by processing sequential data with advanced deep learning techniques.
