@@ -80,7 +80,7 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
    - Evaluate model performance.
 
 ## Results
-![results](results.png)
+![Sample Results](results.jpg)
 
 The models were evaluated using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). The hybrid CNN-LSTM model outperformed individual CNN and LSTM models, demonstrating the effectiveness of combining spatial and temporal feature extraction for time series forecasting.
 
